@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/unity_RigidBody_four_Force_Effect.unity
+  isLoaded: 1
+  isActive: 1
